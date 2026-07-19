@@ -5,11 +5,5 @@ const DICAS_DESTAQUE = [
     "nome": "K",
     "texto": "Muito bom vou começar a praticar",
     "origemComentarioId": 22
-  },
-  {
-    "id": "mrr7tp84",
-    "nome": "T.",
-    "texto": "Bem interessante. \nVou praticar",
-    "origemComentarioId": 21
   }
 ];
