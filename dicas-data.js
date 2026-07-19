@@ -1,5 +1,9 @@
-/* Lista de Dicas do Leitor em destaque — gerada pelo Painel Administrativo.
-   Cada dica vem de um comentário real da Área do Leitor, escolhido e
-   classificado manualmente. Aparece nos resultados de busca relacionados
-   ao artigo/tag correspondente. */
-const DICAS_DESTAQUE = [];
+/* Lista de Dicas do Leitor em destaque — gerada pelo Painel Administrativo. */
+const DICAS_DESTAQUE = [
+  {
+    "id": "mrr7s2o5",
+    "nome": "K",
+    "texto": "Muito bom vou começar a praticar",
+    "origemComentarioId": 22
+  }
+];
