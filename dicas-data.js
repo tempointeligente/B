@@ -11,5 +11,11 @@ const DICAS_DESTAQUE = [
     "nome": "T.",
     "texto": "Bem interessante. \nVou praticar",
     "origemComentarioId": 21
+  },
+  {
+    "id": "mru1t6t8",
+    "nome": "Figueiredo",
+    "texto": "É verdade, as vezes passamos o dia fazendo um montão de coisas, e não concluímos nada.\nAí fim do dia cansado, e com sentimento de M... porque não foi produtivo.",
+    "origemComentarioId": 24
   }
 ];
